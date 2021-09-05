@@ -1,3 +1,5 @@
+// Reversing an array
+
 the_array = [1,2,3,"a","b","c"]
 
 a_temp = []
